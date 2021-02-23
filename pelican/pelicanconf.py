@@ -3,8 +3,7 @@
 
 AUTHOR = 'APT42'
 SITENAME = 'APT42'
-#SITESUBTITLE = u'My Awesome Blog'
-SITEURL = ''
+SITEURL = 'https://www.apt42.fr'
 
 PATH = 'content'
 
@@ -46,7 +45,7 @@ THEME = "nest"
 
 
 NEST_HEADER_IMAGES = "background.jpg"
-NEST_HEADER_LOGO = "extra/logo.svg"
+NEST_HEADER_LOGO = "logo.svg"
 
 STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
